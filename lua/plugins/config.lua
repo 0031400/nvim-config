@@ -39,6 +39,7 @@ return {
         "html-lsp",
         "typescript-language-server",
         "lua-language-server",
+        "pyright",
       },
     },
   },
